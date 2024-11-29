@@ -67,16 +67,13 @@
             <p class="text-[12px]">💬 Motto</p>
             <div>
               <h1 class="text-2xl leading-9">
-                <div class="flex flex-col">
-                  <span
-                    class="hidden font-bold text-teal-400 md:inline-block text-left"
-                  >
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;春光大好&nbsp;
-                  </span>
-                  <span class="hidden lg:inline-block text-right">
-                    何必执着于冬&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                  </span>
-                </div>
+                <span class="hidden lg:inline-block">Passion!!!&nbsp;</span>
+              </h1>
+              <h1
+                class="font-serif text-3xl tracking-widest md:text-2xl lg:text-3xl"
+              >
+                <span class="font-bold text-sky-500">春光大好</span>
+                何必执着于冬
               </h1>
             </div>
           </div>
@@ -203,7 +200,7 @@
           <p class="text-[12px]">🎯 Looking for Jobs</p>
           <h1 class="mt-2 text-4xl font-bold">工作机会</h1>
           <div class="mt-4 md:text-base lg:text-xl">
-            <img src="../../src/public/cute.gif" alt="cute">
+            <img src="../../src/public/cute.gif" alt="cute" />
           </div>
         </div>
         <!-- 🪁 Interests -->
@@ -255,11 +252,14 @@
           <div class="h-full flex items-center justify-center">
             <h1 class="text-[40px] leading-9">
               <div class="flex flex-col">
-                <span
-                  class="hidden font-bold md:inline-block text-left bg-gradient-to-r from-pink-500 to-rose-500 bg-clip-text text-transparent"
+                <h1
+                  class="font-serif text-3xl tracking-widest md:text-2xl lg:text-3xl"
                 >
-                  请你努力，为了自己
-                </span>
+                  <span
+                    class="bg-gradient-to-r from-pink-500 to-rose-500 bg-clip-text text-transparent"
+                    >请你努力，为了自己</span
+                  >
+                </h1>
               </div>
             </h1>
           </div>
