@@ -65,7 +65,7 @@ const returnToTopRef = ref<HTMLElement | null>(null);
 
 const router = useRouter();
 const gotoGithub = () => {
-  window.open('https://github.com/LofiSu');
+  window.open('https://github.com/LIFM0623');
 };
 
 // 音乐播放相关
